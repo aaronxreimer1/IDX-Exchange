@@ -36,9 +36,9 @@ The goal of this project is to build and train a machine learning model to predi
 
 * **Deliverable:**
 
-* 02_preprocessing.ipynb (Clean preprocessing pipeline and dynamic train/test splitting notebook).
+  * 02_preprocessing.ipynb (Clean preprocessing pipeline and dynamic train/test splitting notebook).
 
-* cleaned_sales_data.csv (Fully cleaned, normalized, and imputed master dataset exported for training).  
+  * cleaned_sales_data.csv (Fully cleaned, normalized, and imputed master dataset exported for training).  
 
 ### Week 4: Baseline Model
 
@@ -48,4 +48,4 @@ The goal of this project is to build and train a machine learning model to predi
 
 * **Deliverable:**
 
-* 03_baseline_model.ipynb (Jupyter Notebook demonstrating baseline model setup, evaluation run, and recorded R^2 performance).
+  * 03_baseline_model.ipynb (Jupyter Notebook demonstrating baseline model setup, evaluation run, and recorded R^2 performance).
